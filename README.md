@@ -6,7 +6,6 @@
 [![email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://criarmeulink.com.br/u/1676648815)
 
 
-![codewsam's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewsam&show_icons=true&theme=dracula&locale=pt-br)
 
 
 ### Minhas Tecnologias: 
