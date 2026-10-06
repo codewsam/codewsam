@@ -10,7 +10,6 @@
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://wasabi.e-inscricao.com/uploads/hotsite/v2/cover/1576094012_078ce0bd-a319-451a-bf47-7074c2e23531.png" jsaction="" class="sFlh5c FyHeAf uT7N3d" style="max-width: 1200px; --xGflle: 1.9047619047619047;" alt="TQS Recife | e-inscrição" jsname="kn3ccd">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
