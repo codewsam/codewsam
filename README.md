@@ -12,7 +12,6 @@
   <a href="https://github.com/codewsam">
     <img src="https://img.shields.io/badge/GitHub-codewsam-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=codewsam&style=for-the-badge&color=2563EB" alt="Visualizações do perfil" />
 </p>
 
 ## 🛠️ Tecnologias e ferramentas
@@ -41,11 +40,12 @@
   <em>Programação, modelagem BIM e engenharia estrutural em constante evolução.</em>
 </p>
 
-## 📊 GitHub em números
+## 🚀 Áreas de interesse
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=codewsam&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewsam&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img src="https://img.shields.io/badge/Desenvolvimento%20de%20Software-2563EB?style=for-the-badge&logo=code" alt="Desenvolvimento de Software" />
+  <img src="https://img.shields.io/badge/BIM%20e%20Modelagem-7C3AED?style=for-the-badge&logo=autodesk" alt="BIM e Modelagem" />
+  <img src="https://img.shields.io/badge/Engenharia%20Estrutural-0B3D91?style=for-the-badge&logoColor=white" alt="Engenharia Estrutural" />
 </div>
 
 ## 📫 Onde me encontrar
