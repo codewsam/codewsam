@@ -4,17 +4,9 @@
 
 <h1 align="center">Olá! 👋 Eu sou o Samuel</h1>
 
-<p align="center">
-  Desenvolvedor e estudante de tecnologia com interesse em programação, engenharia e soluções digitais.
-</p>
 
-<p align="center">
-  <a href="https://github.com/codewsam">
-    <img src="https://img.shields.io/badge/GitHub-codewsam-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="React" title="React" />
@@ -34,21 +26,9 @@
   </a>
 </div>
 
-<br />
 
-<p align="center">
-  <em>Programação, modelagem BIM e engenharia estrutural em constante evolução.</em>
-</p>
 
-## 🚀 Áreas de interesse
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Desenvolvimento%20de%20Software-2563EB?style=for-the-badge&logo=code" alt="Desenvolvimento de Software" />
-  <img src="https://img.shields.io/badge/BIM%20e%20Modelagem-7C3AED?style=for-the-badge&logo=autodesk" alt="BIM e Modelagem" />
-  <img src="https://img.shields.io/badge/Engenharia%20Estrutural-0B3D91?style=for-the-badge&logoColor=white" alt="Engenharia Estrutural" />
-</div>
-
-## 📫 Onde me encontrar
+## 📫 Social
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn" />
@@ -56,7 +36,7 @@
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Outlook" />
 </div>
 
-### 🎮 Um pouco de diversão
+###
 
 <div align="center">
   <picture>
