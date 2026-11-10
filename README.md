@@ -31,6 +31,9 @@
 ## 📫 Social
 
 <div align="center">
+  <a href="https://codewsam.github.io/portfolio-samuel/" title="Portfolio">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=2563EB&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Portfolio" />
+  </a>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn" />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Instagram" />
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Outlook" />
